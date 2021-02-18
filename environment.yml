@@ -1,0 +1,27 @@
+name: optimizationII
+channels:
+  - conda-forge
+dependencies:
+  - ipython
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pandoc
+  - pip
+  - python=3.8
+  - scipy
+  - seaborn
+  - sphinx
+  - tqdm
+  - pip:
+    - black
+    - cvxpy
+    - nbsphinx
+    - nbsphinx_link
+    - pycodestyle
+    - Pygments==2.7.1
+    - sphinx_rtd_theme==0.5.0
+    - sphinx-copybutton

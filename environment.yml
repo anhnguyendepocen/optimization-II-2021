@@ -22,6 +22,7 @@ dependencies:
     - nbsphinx
     - nbsphinx_link
     - pycodestyle
-    - Pygments==2.7.1
-    - sphinx_rtd_theme==0.5.0
+    - pygments==2.7.1
+    - sphinx-autobuild
     - sphinx-copybutton
+    - sphinx_rtd_theme==0.5.0

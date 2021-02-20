@@ -1,6 +1,10 @@
 Welcome to the solutions website for Optimization II
 ====================================================
 
+This page contains all of the solution for the Unige Course Optimization II. The solutions are shown
+as webpages, but if you prefer you can download a PDF version by `clicking on this link
+<https://optimization-ii-2021.readthedocs.io/_/downloads/en/latest/pdf/>`_.
+
 All of the solutions are also avalaible as Jupyter notebooks. You can open these notebooks on
 `Google Colab <https://colab.research.google.com/>`_ by clicking the button 'Open in Colab' at the 
 top of each page.

@@ -21,3 +21,4 @@ than the packages that come standard with Anaconda, you should install `CVXPY
    :glob:
 
    nblinks/week0.nblink
+   nblinks/week1.nblink

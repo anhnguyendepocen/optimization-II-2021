@@ -19,6 +19,7 @@ dependencies:
   - pip:
     - black
     - cvxpy
+    - jupyterlab_code_formatter
     - nbsphinx
     - nbsphinx_link
     - pycodestyle

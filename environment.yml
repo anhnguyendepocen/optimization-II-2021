@@ -20,6 +20,7 @@ dependencies:
     - black
     - cvxpy
     - jupyterlab_code_formatter
+    - nbgrader
     - nbsphinx
     - nbsphinx_link
     - pycodestyle

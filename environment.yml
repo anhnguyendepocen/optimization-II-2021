@@ -9,12 +9,12 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
-  - pandoc
+  - pandoc>=2.12
   - pip
   - python=3.8
   - scipy
   - seaborn
-  - sphinx
+  - sphinx>=3.5.2
   - tqdm
   - pip:
     - black

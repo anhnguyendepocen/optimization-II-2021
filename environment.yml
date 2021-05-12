@@ -7,6 +7,7 @@ dependencies:
   - jupyter
   - jupyterlab
   - matplotlib
+  - networkx
   - numpy
   - pandas
   - pandoc
@@ -21,7 +22,7 @@ dependencies:
   - pip:
     - black
     - cvxpy
-    - jupyterlab_code_formatter
+    - jupyterlab_code_formatter==1.4.4
     - nbgrader
     - nbsphinx
     - nbsphinx_link
